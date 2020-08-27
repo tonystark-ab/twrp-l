@@ -37,3 +37,4 @@ workflows:
           make -j$(nproc --all) recoveryimage
           exit
           EOF
+        EOF
